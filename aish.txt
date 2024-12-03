@@ -1,3 +1,0 @@
-Devops training
-Git concepts
-staging file
